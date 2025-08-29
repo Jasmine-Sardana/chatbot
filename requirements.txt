@@ -1,10 +1,9 @@
 chromadb
-langchain
+langchain 
 langchain-chroma
 langchain-community
 langchain-mongodb
-langchain-ollama
-langchain-openai
-python-dotenv
-wikipedia
-
+langchain-ollama 
+langchain-openai 
+python-dotenv 
+wikipedia 
